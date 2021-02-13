@@ -1,4 +1,3 @@
 # teacherDistributionProgram
-برنامج توزيع الحراس على مراكز الحراسة مبرمج باستعمال ال Excel
-vba وال
-كلمة السر هي: nail
+a Program Distributed the teachers on Guard centers
+passWord: nail
